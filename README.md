@@ -1,4 +1,4 @@
-# 银河奶牛资产助手
+# 资产助手
 
 [从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/600009)
 
