@@ -1,6 +1,6 @@
 # 银河奶牛资产助手
 
-[从 GitHub 安装正式版](https://raw.githubusercontent.com/LaYuDr/mwi-layu-assets/main/mwi-layu-assets.user.js)。Greasy Fork 入口尚在配置。
+[从 Greasy Fork 安装](https://greasyfork.org/zh-CN/scripts/600009)
 
 在 Milky Way Idle 游戏侧栏添加独立“资产”页签，以游戏原生市场价格统计资产，所有数据留在浏览器本地。
 
