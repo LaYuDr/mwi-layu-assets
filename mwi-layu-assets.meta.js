@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         资产助手
 // @namespace    https://www.milkywayidle.com/mwi-layu-assets
-// @version      0.1.5
+// @version      0.1.6
 // @author       柆雨
 // @description  银河奶牛资产助手：按游戏原生行情估算资产，保存历史、分项变化和本地备份。
 // @name:zh-CN   资产助手
@@ -22,7 +22,7 @@
 // @grant        GM_removeValueChangeListener
 // @grant        GM_xmlhttpRequest
 // @connect      ukpyedhl.cn-hk1.rainapp.top
-// @antifeature  tracking Optional installation and daily activity counts; disabled by default.
+// @antifeature  tracking Installation and daily activity statistics; see the script's settings and privacy details.
 // @grant        GM_addElement
 // @license      MIT
 // ==/UserScript==
